@@ -3,6 +3,7 @@ Route optimization for MWS410 with OptiMap
 
 * [OptiMap_V1 blog post](https://m3ideas.org/2012/10/04/route-optimization-for-mws410-with-optimap/)
 * [OptiMap_V2 blog post](https://m3ideas.org/2013/03/08/optimap_v2/)
+* [OptiMap_V3 blog post](https://m3ideas.org/2016/11/10/route-optimization-for-mws410-with-optimap-continued/)
 
 ## V4 [PENDING]
 * Add ability to Export OptiMap's route to M3 Loading (MULS) and Unloading sequence (SULS) using API MYS450MI.AddDelivery, closing the loop of integrating M3 to OptiMap.
