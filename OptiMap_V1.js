@@ -14,7 +14,7 @@ This is interesting to reduce driving time and cost, and for a driver to optimiz
 4) Select multiple Routes in the list (press CTRL to select multiple rows)
 5) Click the OptiMap Shortcut to run this script and launch OptiMap for the selected Routes
 For more information and screenshots refer to https://thibaudatwork.wordpress.com/2012/10/04/route-optimizer/
-Thibaud Lopez Schneider, Infor, October 4, 2012 (rev.2)
+Thibaud Lopez Schneider, October 4, 2012 (rev.2)
 */
 package MForms.JScript {
     class OptiMap_V1 {
