@@ -5,7 +5,7 @@ Route optimization for MWS410 with OptiMap
 * [OptiMap_V2 blog post](https://m3ideas.org/2013/03/08/optimap_v2/)
 
 ## V4 [PENDING]
-* Added ability to Export OptiMap's route to M3 Loading (MULS) and Unloading sequence (SULS) using API MYS450MI.AddDelivery, closing the loop of integrating M3 to OptiMap.
+* Add ability to Export OptiMap's route to M3 Loading (MULS) and Unloading sequence (SULS) using API MYS450MI.AddDelivery, closing the loop of integrating M3 to OptiMap.
 
 ## V3
 * Made Warehouse dynamic: the Warehouse (WHLO) is now detected from the selected rows, and its address is dynamically retrieved using API MMS005MI.GetWarehouse; no need to specify the Warehouse address as a parameter anymore.
